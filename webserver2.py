@@ -1,4 +1,3 @@
-
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 import os
 
