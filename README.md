@@ -42,7 +42,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 PROGRAM:
 
 OUTPUT:
-<img width="1868" height="852" alt="Screenshot 2026-11-24 093508" src="https://github.com/user-attachments/assets/57c339d2-1e62-4413-9466-afdffc2ee0c9" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/ee7f14f9-54fd-4b29-ac25-e1e71c5bd2e7" />
+
 
 
 RESULT:
